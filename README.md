@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akshay
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Front End Development
-- 📫 How to reach me mail - akshusharmagi@gmail.com
+- 📫 How to reach me - akshusharmagi@gmail.com
 - 😄 Pronouns: he/him
 
 
